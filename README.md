@@ -40,9 +40,9 @@ Instruction Decode (ID) - Decodes the instruction and reads registers.
 Execute (EX) - Performs ALU operations.
 
 Write-back (WB) - Stores results back into registers.
-
-Supported Instructions
-
+```
+### Supported Instructions
+```bash
 The CPU supports a subset of MIPS-like instructions:
 
 Arithmetic & Logical: ADD, SUB, AND, OR, SLT
